@@ -37,13 +37,106 @@ The course will also help students improve their close reading, critical thinkin
 Course Requirements
 -------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Class attendance and participation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 15% {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 3 ethnographic projects (3–4 pages) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 30% {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Critique of said projects {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 15% {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 reading response essays (1 page) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 20% {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Final paper {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 20% {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Class attendance and participation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+15%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3 ethnographic projects (3–4 pages)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+30%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Critique of said projects
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+15%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4 reading response essays (1 page)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+20%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Final paper
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+20%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For further detail, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
