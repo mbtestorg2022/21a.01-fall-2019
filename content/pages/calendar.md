@@ -4,35 +4,625 @@ title: Calendar
 uid: 1180ff09-94d0-1c25-c1c0-a62ddf629050
 ---
 
-| SES # | TOPICS | KEY DUE DATES |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **Section 1: The Family** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Family (I) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Family (II) {{< br >}}{{< br >}} _Ethnographic assignment #1 explained_ {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Family (III) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Family (IV) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Family (V) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Family (VI) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Family (VII) {{< br >}}{{< br >}} _Screening_ {{< br >}}{{< br >}} _“_[Exit Zero: An Industrial Family Story](https://www.youtube.com/watch?v=WyK5PBLPn0I).” YouTube. {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Family (VIII) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Family (IX) {{< br >}}{{< br >}} _Present and critique projects, based on ethnographic assignment #1_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Ethnographic assignment #1 due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **Section 2: Things (Creation and Circulation)** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Things (Creation and Circulation) (I) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Things (Creation and Circulation) (II) {{< br >}}{{< br >}} _Ethnographic assignment #2 explained_ {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Things (Creation and Circulation) (III) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 14 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Things (Creation and Circulation) (IV) {{< br >}}{{< br >}} _Screening_ {{< br >}}{{< br >}} “[Tabu: A Story of the South Seas](https://www.youtube.com/watch?v=yPP7fWVMptg).” YouTube. {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 15 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Things (Creation and Circulation) (V) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 16 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Things (Creation and Circulation) (VI) {{< br >}}{{< br >}} _Present and critique projects, based on ethnographic assignment #2_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Ethnographic assignment #2 due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **Section 3: Persons, Agents, Selves, Possessions** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 17 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Persons, Agents, Selves, Possessions (I) {{< br >}}{{< br >}} _Ethnographic assignment #3 explained_ {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 18 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Persons, Agents, Selves, Possessions (II) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 19 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Persons, Agents, Selves, Possessions (III) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 20 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Persons, Agents, Selves, Possessions (IV) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 21 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Persons, Agents, Selves, Possessions (V) {{< br >}}{{< br >}} _Present and critique projects, based on ethnographic assignment #3_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Ethnographic assignment #3 due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **Section 4: Ethnography, Ethnographers, and How to Study “Culture”** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 22 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Ethnography, Ethnographers, and How to Study “Culture” (I) {{< br >}}{{< br >}} _Screening_ {{< br >}}{{< br >}} “In the Land of the Head Hunters.”  {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 23 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Ethnography, Ethnographers, and How to Study “Culture” (II) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 24 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Ethnography, Ethnographers, and How to Study “Culture” (III) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 25 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Ethnography, Ethnographers, and How to Study “Culture” (IV) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 26 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Ethnography, Ethnographers, and How to Study “Culture” (V) {{< br >}}{{< br >}} _Screening_ {{< br >}}{{< br >}} “[Bush Mechanics, Ep. 1: Motorcar Ngutju](https://www.youtube.com/watch?v=IIcmsjT73Yk).” YouTube. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Final paper due  {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**Section 1: The Family**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Family (I)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Family (II)
+
+_Ethnographic assignment #1 explained_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Family (III)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Family (IV)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Family (V)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Family (VI)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Family (VII)
+
+_Screening_
+
+_“_[Exit Zero: An Industrial Family Story](https://www.youtube.com/watch?v=WyK5PBLPn0I).” YouTube.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Family (VIII)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Family (IX)
+
+_Present and critique projects, based on ethnographic assignment #1_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ethnographic assignment #1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**Section 2: Things (Creation and Circulation)**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Things (Creation and Circulation) (I)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Things (Creation and Circulation) (II)
+
+_Ethnographic assignment #2 explained_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Things (Creation and Circulation) (III)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+14
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Things (Creation and Circulation) (IV)
+
+_Screening_
+
+“[Tabu: A Story of the South Seas](https://www.youtube.com/watch?v=yPP7fWVMptg).” YouTube.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+15
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Things (Creation and Circulation) (V)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+16
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Things (Creation and Circulation) (VI)
+
+_Present and critique projects, based on ethnographic assignment #2_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ethnographic assignment #2 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**Section 3: Persons, Agents, Selves, Possessions**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+17
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Persons, Agents, Selves, Possessions (I)
+
+_Ethnographic assignment #3 explained_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+18
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Persons, Agents, Selves, Possessions (II)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+19
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Persons, Agents, Selves, Possessions (III)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+20
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Persons, Agents, Selves, Possessions (IV)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+21
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Persons, Agents, Selves, Possessions (V)
+
+_Present and critique projects, based on ethnographic assignment #3_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ethnographic assignment #3 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**Section 4: Ethnography, Ethnographers, and How to Study “Culture”**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+22
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ethnography, Ethnographers, and How to Study “Culture” (I)
+
+_Screening_
+
+“In the Land of the Head Hunters.” 
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+23
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ethnography, Ethnographers, and How to Study “Culture” (II)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+24
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ethnography, Ethnographers, and How to Study “Culture” (III)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+25
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ethnography, Ethnographers, and How to Study “Culture” (IV)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+26
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ethnography, Ethnographers, and How to Study “Culture” (V)
+
+_Screening_
+
+“[Bush Mechanics, Ep. 1: Motorcar Ngutju](https://www.youtube.com/watch?v=IIcmsjT73Yk).” YouTube.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final paper due 
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
